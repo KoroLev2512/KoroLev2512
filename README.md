@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me:
-  I am a Back-end Software Engineer/Developer right now, but, aspire to become a Full-stack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+  I am a Front-end developer right now, but, aspire to become a Full-stack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
   <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
   - :seedling: Developing corporate business platform.
   - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
@@ -29,67 +29,60 @@
 ### `Hard skills:`
 - Back-end:
   - С
-  - C++ (MSA)
-  - C# (OOP principles, frameworks: ASP.NET CORE, WPF, WF, Entity Framework)
-  - Java (OOP principles, frameworks: Spring Boot)
-  - Python (Flask, Django, Tornado)
-  - Kotlin (OOP principles, frameworks: Spring Boot, Mockito)
+  - Java (OOP principles)
+  - Python (frameworks: Fastapi, Flask, Django)
+  - Kotlin (OOP principles)
+    
 - Front-end:
   - JavaScript (React.js, Vue.js)
   - Typescript
-  - CSS 
-  - HTML
+  - CSS/SCSS
+  - HTML/HTML5
+    
 - DataBases (writing scripts of queries, work with, use on projects):
-  - T-SQL
   - MySQL
-  - SparQL
-  - RDF Data Expert
-  - GraphQL
   - PostgreSQL
   - MongoDB
   - Oracle
+    
 - Analytics:
   - Mathematics statistics
-  - Tableu (for data processing)
   - Python (for data analyzing)
-- Mobile developing:
-  - iOS:
-    - Swift (and SwiftUI, UIKit)
-    - Objective-C
-  - Android:
-    - Kotlin
+    
 - Tools:
   - Git 
   - Github 
-  - MarkDown
   - Docker 
   - Azure
   - Confluence
   - Jira
-  - RabbitMQ
-  - Kafka
   - Kubernetes
-- Research activities:
-  - Labs at "ITMO university" (ICT and FITiP)
+    
 - Architecture:
   - Monolite (module system)
   - Microservice
   - Event Driven
   - Data Driven Design
   - MVC
+    
 - - -
+
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
 - Developing my own projects, self-development
-- Languages - Russian, English - Level C1 (Advanced), Spanish (A2)
+- Languages - Russian, English - Level B2 (Upper-entermediate)
+  
 - - -
+
 ### `Achievements (at university):`
 - Admin of group M3109 (1st course)
 - Olimpiad volunteer (organization and technical support, 1-2nd course)
 - National team at university - MMA (1-3d course)
 - National team at university - Rugby (since 3d course and right now)
 - National team at university - Floorball (since 3d course and right now)
+  
 - - -
+
 ### `Lifestyle:`
 - Location - Saint-Petersburg
 - Age - 21
