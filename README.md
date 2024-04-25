@@ -62,10 +62,9 @@
     
 - Architecture:
   - Monolite (module system)
-  - Microservice
-  - Event Driven
-  - Data Driven Design
+  - FSD (feature-slised design)
   - MVC
+  - MVVM
     
 - - -
 
@@ -77,11 +76,16 @@
 - - -
 
 ### `Achievements (at university):`
-- Admin of group M3109 (1st course)
-- Olimpiad volunteer (organization and technical support, 1-2nd course)
-- National team at university - MMA (1-3d course)
-- National team at university - Rugby (since 3d course and right now)
-- National team at university - Floorball (since 3d course and right now)
+- Chairman of the ITMO.STUDENTS community
+- Delegate to the conference of workers and students
+- Speaker and founder of the Improvisation club school
+- Adapter for seven University study groups
+- Speaker and founder of the Improvisation club school
+- Member of the Presidium of the Academic Council
+- Member of the educational and methodological council
+- Member of the ITMO Donors volunteer club
+- Information Systems Department Developer
+
   
 - - -
 
@@ -89,12 +93,10 @@
 - Location - Saint-Petersburg
 - Age - 23
 - Studying - ITMO University
-- Sport -
-  - In young years: Sports ballroom dancing, Baseball (proff.)
-  - In junior years: Ice hockey
-  - In adult years: MMA, Rugby, Floorball, Box
+- Sport - football (amateur), hockey (amateur), karate (pro), fitness, athletics
+- Musician - classic guitar (m, singer
 - Hobbies - 
-  - musician: (classic guitar), singer
+  - musician: classic guitar (musical education), singer
   - Self-development: reading books and articles (exactly a lot)
   - Other interests: business area, financial literacy, investments, time-managment, setting goals and achieving them
 <!--
