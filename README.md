@@ -92,8 +92,8 @@
 ### `Lifestyle:`
 - Location - Saint-Petersburg
 - Age - 23
-- Studying - ITMO University
-- Hobbies - 
+- Studying - ITMO University (bachelor)
+- Hobbies
   - Musician: classic guitar (musical education), singer
   - Sport - football (amateur), hockey (amateur), karate (pro), fitness, athletics
   - Self-development: reading books and articles (exactly a lot)
