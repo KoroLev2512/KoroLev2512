@@ -76,6 +76,7 @@
 - - -
 
 ### `Achievements (at university):`
+- Information Systems Department Developer (develop ITMO.EVENTS project)
 - Chairman of the ITMO.STUDENTS community
 - Delegate to the conference of workers and students
 - Speaker and founder of the Improvisation club school
@@ -84,7 +85,6 @@
 - Member of the Presidium of the Academic Council
 - Member of the educational and methodological council
 - Member of the ITMO Donors volunteer club
-- Information Systems Department Developer
 
   
 - - -
@@ -93,10 +93,9 @@
 - Location - Saint-Petersburg
 - Age - 23
 - Studying - ITMO University
-- Sport - football (amateur), hockey (amateur), karate (pro), fitness, athletics
-- Musician - classic guitar (m, singer
 - Hobbies - 
-  - musician: classic guitar (musical education), singer
+  - Musician: classic guitar (musical education), singer
+  - Sport - football (amateur), hockey (amateur), karate (pro), fitness, athletics
   - Self-development: reading books and articles (exactly a lot)
   - Other interests: business area, financial literacy, investments, time-managment, setting goals and achieving them
 <!--
