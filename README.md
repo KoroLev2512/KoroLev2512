@@ -34,7 +34,7 @@
   - Kotlin (OOP principles)
     
 - Front-end:
-  - JavaScript (React.js, Vue.js)
+  - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
   - Typescript
   - CSS/SCSS
   - HTML/HTML5
