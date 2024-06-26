@@ -30,7 +30,7 @@
 - Back-end:
   - С
   - Java (OOP principles)
-  - Python (frameworks: Fastapi, Flask, Django)
+  - Python (Fastapi, Flask, Django)
   - Kotlin (OOP principles)
     
 - Front-end:
@@ -38,6 +38,8 @@
   - Typescript
   - CSS/SCSS
   - HTML/HTML5
+  - Telegram Mini Apps Development
+  - Axios, Zustand, MobX, React-Query
     
 - DataBases (writing scripts of queries, work with, use on projects):
   - MySQL
