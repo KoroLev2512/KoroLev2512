@@ -33,7 +33,7 @@
   - Python (Fastapi, Flask, Django)
   - Kotlin (OOP principles)
     
-- Front-end:
+- Frontend:
   - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
   - Typescript
   - CSS/SCSS
