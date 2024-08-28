@@ -27,8 +27,8 @@
 
 - - -
 ### `Hard skills:`
+
 - Back-end:
-  - С
   - Java (OOP principles)
   - Python (Fastapi, Flask, Django)
   - Kotlin (OOP principles)
@@ -52,6 +52,10 @@
 
 - ML:
   - Python (for machine learning - Keras, TensorFlow, Scikit-learn & OpenCV)
+ 
+- Other:
+  - С (Image rotation, Memory allocation)
+  - С++ (POSIX)
     
 - Tools:
   - Git 
