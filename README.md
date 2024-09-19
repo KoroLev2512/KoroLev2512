@@ -68,6 +68,8 @@
    A platform for user interaction and project management.
    
 - - -
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- - -
 
 ### `Hard skills:`
 
