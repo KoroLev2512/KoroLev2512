@@ -45,6 +45,8 @@
    
 6. **[120 Block](https://120block.ru/)**  
    A platform for user interaction and project management.
+   
+- - -
 
 ### `Hard skills:`
 
