@@ -26,6 +26,26 @@
 <!-- #### Projects I have worked on: -->
 
 - - -
+### `Projects:`
+
+1. **[ITMO.EVENTS](https://itmo.events/)**  
+   A project management system for ITMO students, offering functionality for event registration and scheduling.
+
+2. **[Block 120 Bot](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd/)**  
+   A Telegram mini-app for refferal system on the platform 120 Block.
+
+3. **[Deploy Server Mini App Bot](https://t.me/DeployServerMiniAppBot/)**  
+   A Telegram mini-app for social network on the platform 120 Block.
+
+4. **[Plain Sand](https://plain-sand.vercel.app/)**  
+   An interactive web-app demonstrating for travel ML project Plain.
+
+5. **[MWS ETA](https://mws-eta.vercel.app/)**  
+   A web app providing data analytics and visualization.
+   
+6. **[120 Block](https://120block.ru/)**  
+   A platform for user interaction and project management.
+
 ### `Hard skills:`
 
 - Back-end:
@@ -82,6 +102,7 @@
 - - -
 
 ### `Achievements (at university):`
+- ITMO University's best graduate 2024
 - Information Systems Department Developer (develop ITMO.EVENTS project)
 - Chairman of the ITMO.STUDENTS community
 - Delegate to the conference of workers and students
