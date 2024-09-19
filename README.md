@@ -19,13 +19,15 @@
 </div>
 
 ### :man_technologist: About Me:
+<div align="center">
   I am a Front-end developer right now, but, aspire to become a Full-stack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+</div>
   <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
   - :seedling: Developing corporate business platform.
   - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
 <!-- #### Projects I have worked on: -->
 
-
+- - -
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
