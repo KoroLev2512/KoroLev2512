@@ -103,17 +103,16 @@
   - С++ (POSIX)
     
 - Tools:
-  - Git 
-  - Github 
-  - Docker 
+  - Git (Github, Gitlab)
+  - Jira, Notion, ClickUp
+  - Docker
   - Azure
   - Confluence
-  - Jira
   - Kubernetes
     
 - Architecture:
-  - Monolite (module system)
   - FSD (feature-slised design)
+  - Monolite (module system)
   - MVC
   - MVVM
     
