@@ -73,7 +73,7 @@
 
 ### `Hard skills:`
 
-- Back-end:
+- Backend:
   - Java (OOP principles)
   - Python (Fastapi, Flask, Django)
     
