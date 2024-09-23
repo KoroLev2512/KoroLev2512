@@ -83,7 +83,8 @@
   - CSS/SCSS
   - HTML/HTML5
   - Telegram Mini Apps Development
-  - Axios, Zustand, MobX, React-Query
+  - Redux, MobX, React-Query
+  - Axios, Zustand
     
 - DataBases (writing scripts of queries, work with, use on projects):
   - MySQL
