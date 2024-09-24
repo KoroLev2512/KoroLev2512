@@ -80,13 +80,6 @@
   - HTML/HTML5
   - Telegram Mini Apps Development
   - Redux, MobX, React-Query
-  - Axios, Zustand- Frontend:
-  - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
-  - Typescript
-  - CSS/SCSS
-  - HTML/HTML5
-  - Telegram Mini Apps Development
-  - Redux, MobX, React-Query
   - Axios, Zustand
     
 - Backend:
