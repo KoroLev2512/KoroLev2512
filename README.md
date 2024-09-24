@@ -61,11 +61,11 @@
 4. **[Plain](https://plain-sand.vercel.app/)**  
    An interactive web-app demonstrating for travel ML project Plain.
 
-5. **[MWS](https://mws-eta.vercel.app/)**  
-   A web app providing data analytics and visualization.
-   
-6. **[120 Block Landing](https://120block.ru/)**  
+5. **[120 Block Landing](https://120block.ru/)**  
    A platform for user interaction and project management.
+
+6. **[MWS](https://mws-eta.vercel.app/)**  
+   A web app providing data analytics and visualization.
    
 - - -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -73,11 +73,6 @@
 
 ### `Hard skills:`
 
-- Backend:
-  - Javascript (Express.js,Node.js)
-  - Java (OOP principles)
-  - Python (Fastapi, Flask, Django)
-    
 - Frontend:
   - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
   - Typescript
@@ -85,7 +80,19 @@
   - HTML/HTML5
   - Telegram Mini Apps Development
   - Redux, MobX, React-Query
+  - Axios, Zustand- Frontend:
+  - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
+  - Typescript
+  - CSS/SCSS
+  - HTML/HTML5
+  - Telegram Mini Apps Development
+  - Redux, MobX, React-Query
   - Axios, Zustand
+    
+- Backend:
+  - Javascript (Express.js,Node.js)
+  - Java (OOP principles)
+  - Python (Fastapi, Flask, Django)
     
 - DataBases (writing scripts of queries, work with, use on projects):
   - MySQL
