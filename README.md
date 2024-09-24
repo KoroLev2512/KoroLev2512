@@ -74,6 +74,7 @@
 ### `Hard skills:`
 
 - Backend:
+  - Javascript (Express.js,Node.js)
   - Java (OOP principles)
   - Python (Fastapi, Flask, Django)
     
