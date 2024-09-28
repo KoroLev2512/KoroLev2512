@@ -52,7 +52,7 @@
 1. **[ITMO.EVENTS](https://itmo.events/)**  
    A project management system for ITMO students, offering functionality for event registration and scheduling.
 
-2. **[120Block Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd/)**  
+2. **[120Block Ref App]([https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd/](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd))**  
    A Telegram mini-app for refferal system on the platform 120 Block.
 
 3. **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
