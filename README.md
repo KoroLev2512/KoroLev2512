@@ -52,14 +52,14 @@
 1. **[ITMO.EVENTS](https://itmo.events/)**  
    A project management system for ITMO students, offering functionality for event registration and scheduling.
 
-2. **[120Block Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  
+2. **[Plain](https://plain-sand.vercel.app/)**  
+   An interactive web-app demonstrating for travel ML project Plain.
+   
+3. **[120Block Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  
    A Telegram mini-app for refferal system on the platform 120 Block.
 
-3. **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
+4. **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
    A Telegram mini-app for social network on the platform 120 Block.
-
-4. **[Plain](https://plain-sand.vercel.app/)**  
-   An interactive web-app demonstrating for travel ML project Plain.
 
 5. **[120 Block Landing](https://120block.ru/)**  
    A platform for user interaction and project management.
