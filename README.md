@@ -104,8 +104,8 @@
   - С++ (POSIX)
     
 - Tools:
-  - Git (Github, Gitlab)
-  - Jira, Notion, ClickUp
+  - Git (Github, Gitlab, Bitbucket)
+  - Jira, Notion, ClickUp, Youtrack
   - Docker
   - Azure
   - Confluence
