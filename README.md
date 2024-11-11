@@ -52,20 +52,20 @@
 1. **[ITMO.EVENTS](https://itmo.events/)**  
    A project management system for ITMO students, offering functionality for event registration and scheduling.
 
-2. **[Plain](https://plain-sand.vercel.app/)**  
+2. **[MWS](https://mws-eta.vercel.app/)**  
+   A web app providing data analytics and visualization.
+
+3. **[Plain](https://plain-sand.vercel.app/)**  
    An interactive web-app demonstrating for travel ML project Plain.
    
-3. **[120Block Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  
+4. **[120 Block](https://120block.ru/)**
+   Telegram mini-app platform for user interaction and project management.
+   **[Landing](https://120block.ru/)**  
+   **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  
    A Telegram mini-app for refferal system on the platform 120 Block.
-
-4. **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
+   **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
    A Telegram mini-app for social network on the platform 120 Block.
 
-5. **[120 Block Landing](https://120block.ru/)**  
-   A platform for user interaction and project management.
-
-6. **[MWS](https://mws-eta.vercel.app/)**  
-   A web app providing data analytics and visualization.
    
 - - -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
