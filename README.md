@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   </h2>
-    <img src="https://komarev.com/ghpvc/?username=KoroLev2512&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :man_technologist: About Me:
@@ -58,7 +58,7 @@
 3. **[Plain](https://plain-sand.vercel.app/)**  
    An interactive web-app demonstrating for travel ML project Plain.
    
-4. **[120 Block](https://120block.ru/)**
+4. **[120 Block]**
    
    Telegram mini-app platform for creative people & user interaction.
    
