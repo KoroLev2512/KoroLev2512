@@ -60,7 +60,7 @@
    
 4. **[120 Block](https://120block.ru/)**
    
-   Telegram mini-app platform for user interaction and project management.
+   Telegram mini-app platform for creative people & user interaction.
    
    **[Landing](https://120block.ru/)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
 
