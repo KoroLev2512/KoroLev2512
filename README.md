@@ -62,7 +62,7 @@
    
    Telegram mini-app platform for user interaction and project management.
    
-   **[Landing](https://120block.ru/)**  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
+   **[Landing](https://120block.ru/)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
 
    
 - - -
