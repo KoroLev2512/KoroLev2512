@@ -58,7 +58,7 @@
 3. **[Plain](https://plain-sand.vercel.app/)**  
    An interactive web-app demonstrating for travel ML project Plain.
    
-4. **[120 Block]**
+4. **120 Block**
    
    Telegram mini-app platform for creative people & user interaction.
    
