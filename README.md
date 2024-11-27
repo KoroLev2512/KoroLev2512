@@ -51,18 +51,17 @@
 
 1. **[ITMO.EVENTS](https://itmo.events/)**  
    A project management system for ITMO students, offering functionality for event registration and scheduling.
-   rep
 
-3. **[MWS](https://mws-eta.vercel.app/)**  
-   A web app providing data analytics and visualization.
+2. **[MWS](https://mws-eta.vercel.app/)**  
+   Web app providing data analytics and visualization.
 
-4. **[Chess club](https://mws-eta.vercel.app/)**  
-    
+3. **[Chess club](https://kraud-chess.vercel.app)**  
+    Landing page for a chess tournament.
 
-5. **[Plain](https://plain-sand.vercel.app/)**  
-   An interactive web-app demonstrating for travel ML project [Plain](https://plaintrips.com/).
+4. **[Plain](https://plain-sand.vercel.app/)**  
+   An interactive web app demonstrating for travel ML project [plaintrips.com](https://plaintrips.com/).
    
-6. **120 Block**
+5. **120 Block**
    
    Telegram mini-app platform for creative people & user interaction.
    
