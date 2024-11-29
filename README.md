@@ -50,20 +50,23 @@
 ### `Projects:`
 
 1. **[ITMO.EVENTS](https://itmo.events/)**  
-   A project management system for ITMO students, offering functionality for event registration and scheduling.
+   Commercal system for ITMO students, offering functionality for event registration and scheduling.
 
-2. **[MWS](https://mws-eta.vercel.app/)**  
-   Web app providing data analytics and visualization.
+2. **[Traver searh](https://sputnik8.vercel.app/)**  
+   Vue3 project for searching travel for tourists.
 
-3. **[Chess club](https://kraud-chess.vercel.app)**  
+3. **[MWS](https://mws-eta.vercel.app/)**  
+   React web app for consulting company MWS.
+
+4. **[Chess club](https://kraud-chess.vercel.app)**  
     Landing page for a chess tournament.
 
-4. **[Plain](https://plain-sand.vercel.app/)**  
-   An interactive web app demonstrating for travel ML project [plaintrips.com](https://plaintrips.com/).
+5. **[Plain](https://plain-sand.vercel.app/)**  
+   React interactive web app demonstrating for travel ML project [plaintrips.com](https://plaintrips.com/).
    
-5. **120 Block**
+6. **120 Block**
    
-   Telegram mini-app platform for creative people & user interaction.
+   Telegram mini-app platform for creative people & user interaction on React.
    
    **[Landing](https://120block.ru/)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
 
