@@ -52,7 +52,7 @@
 1. **[ITMO.EVENTS](https://itmo.events/)**  
    Commercal system for ITMO students, offering functionality for event registration and scheduling.
 
-2. **[Traver searh](https://sputnik8.vercel.app/)**  
+2. **[Travel search](https://sputnik8.vercel.app/)**  
    Vue3 project for searching travel for tourists.
 
 3. **[MWS](https://mws-eta.vercel.app/)**  
