@@ -85,6 +85,8 @@
   - Telegram Mini Apps Development
   - Redux, MobX, React-Query
   - Axios, Zustand
+  - React Email, React-Toastify
+  - Keycloakify for .ftl on React
     
 - Backend:
   - Javascript (Express.js,Node.js)
@@ -147,7 +149,7 @@
 
 ### `Lifestyle:`
 - Location - Saint-Petersburg
-- Age - 23
+- Age - 24
 - Studying - ITMO University (master)
 - Hobbies
   - Musician: classic guitar (musical education), singer
@@ -159,4 +161,4 @@
 Some info:<br/>
 ITMO University, 4d year student.
 -->
-###### _All rights reserved © Korolev, 2021-2024_
+###### _All rights reserved © Korolev, 2021-2025_
