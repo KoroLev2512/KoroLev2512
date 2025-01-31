@@ -19,7 +19,7 @@
 </div>
 
 ### :man_technologist: About Me:
-  I am a frontend developer right now, but, aspire to become a fullstack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+  I am a javascript frontend developer right now, but, aspire to become a fullstack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
   <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
   - :seedling: Developing corporate business platform.
   - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
@@ -80,13 +80,14 @@
 - Frontend:
   - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
   - Typescript
-  - CSS/SCSS
+  - CSS/SCSS/Tailwind
   - HTML/HTML5
-  - Telegram Mini Apps Development
+  - Telegram Mini Apps Development (Ton connect)
   - Redux, MobX, React-Query
   - Axios, Zustand
   - React Email, React-Toastify
   - Keycloakify for .ftl on React
+  - Pixeljs
     
 - Backend:
   - Javascript (Express.js,Node.js)
