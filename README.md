@@ -87,7 +87,7 @@
   - Axios, Zustand
   - React Email, React-Toastify
   - Keycloakify for .ftl on React
-  - Pixeljs
+  - Pixeljs, Framer Motion
     
 - Backend:
   - Javascript (Express.js,Node.js)
