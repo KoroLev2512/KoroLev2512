@@ -68,7 +68,7 @@
    
    Telegram mini-app platform for creative people & user interaction on React.
    
-   **[Landing](https://120block.ru/)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
+   **[Landing](https://120-landing-snowy.vercel.app/en)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
 
    
 - - -
