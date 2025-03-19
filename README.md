@@ -52,7 +52,6 @@
    Commercal system for ITMO students, offering functionality for event registration and scheduling.
 
 2. **[ITMO.KINO](https://itmokino.ru/)**
-   
    Platform for ITMO students project with the ability to register and select seats for the cinema session.
 
 4. **[Travel search](https://sputnik8.vercel.app/)**  
