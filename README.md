@@ -51,22 +51,22 @@
 1. **[ITMO.EVENTS](https://itmo.events/)**  
    Commercal system for ITMO students, offering functionality for event registration and scheduling.
 
-2. **[ITMO.KINO](https://itmokino.ru/)**
+2. **[ITMO.KINO](https://itmokino.ru/)** 
    Platform for ITMO students project with the ability to register and select seats for the cinema session.
-
-4. **[Travel search](https://sputnik8.vercel.app/)**  
+   
+3. **[Travel search](https://sputnik8.vercel.app/)**  
    Vue3 project for searching travel for tourists.
 
-5. **[MWS](https://mws-eta.vercel.app/)**  
+4. **[MWS](https://mws-eta.vercel.app/)**  
    React web app for consulting company MWS.
 
-6. **[Chess club](https://kraud-chess.vercel.app)**  
+5. **[Chess club](https://kraud-chess.vercel.app)**  
     Landing page for a chess tournament.
 
-7. **[Plain](https://plain-sand.vercel.app/)**  
+6. **[Plain](https://plain-sand.vercel.app/)**  
    React interactive web app demonstrating for travel ML project [plaintrips.com](https://plaintrips.com/).
    
-8. **120 Block**
+7. **120 Block**
    
    Telegram mini-app platform for creative people & user interaction on React.
    
