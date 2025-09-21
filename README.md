@@ -52,7 +52,7 @@
    Commercal system for ITMO students, offering functionality for event registration and scheduling.
 
 2. **[ChapterFour](https://chapterfour.ru/)**  
-   Vue3 project for photo-, video-makers, 3D designers.
+   Vue3 project for photo & videomakers, 3D designers.
    
 3. **[Travel search](https://sputnik8.vercel.app/)**  
    Vue3 project for searching travel for tourists.
