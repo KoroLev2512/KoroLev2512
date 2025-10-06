@@ -76,7 +76,7 @@
 
    
 - - -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/korolev2512/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoroLev2512&layout=compact)](https://github.com/KoroLev2512/github-readme-stats)
 - - -
 
 ### `Hard skills:`
