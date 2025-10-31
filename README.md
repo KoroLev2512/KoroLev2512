@@ -70,6 +70,7 @@
    Platform for ITMO students project with the ability to register and select seats for the cinema session.
    
 8. **120 Block**
+   
    Telegram mini-app platform for creative people & user interaction on React.
    
    **[Landing](https://120-landing-snowy.vercel.app/en)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
