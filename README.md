@@ -66,7 +66,7 @@
 6. **[Plain](https://plain-sand.vercel.app/)**  
    React interactive web app demonstrating for travel ML project [plaintrips.com](https://plaintrips.com/).
 
-7. **[ITMO.KINO]([(https://github.com/KoroLev2512/ITMO-kino)](https://github.com/KoroLev2512/ITMO-kino))**     
+7. **[ITMO.KINO](https://github.com/KoroLev2512/ITMO-kino)**     
    Platform for ITMO students project with the ability to register and select seats for the cinema session.
    
 8. **120 Block**
