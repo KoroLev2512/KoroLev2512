@@ -83,37 +83,25 @@
 ### `Hard skills:`
 
 - Frontend:
-  - JavaScript (React.js, Vue.js, Next.js, Nuxt.js)
-  - Typescript
-  - CSS/SCSS/Tailwind
   - HTML/HTML5
-  - Telegram Mini Apps Development (Ton connect)
+  - CSS/SCSS/Tailwind
+  - JavaScript/Typescript
+  - React.js, Next.js
+  - Vue.js, Nuxt.js
   - Redux, MobX, React-Query
   - Axios, Zustand
   - React Email, React-Toastify
   - Keycloakify for .ftl on React
   - Pixeljs, Framer Motion
+  - Telegram Mini Apps Development (Ton connect)
     
 - Backend:
-  - Javascript (Express.js,Node.js)
-  - Java (OOP principles)
-  - Python (Fastapi, Flask, Django)
+  - Javascript/Typescript (Express.js,Node.js, Nest.js)
     
 - DataBases (writing scripts of queries, work with, use on projects):
   - MySQL
   - PostgreSQL
   - MongoDB
-    
-- Analytics:
-  - Mathematics statistics
-  - Python (for data analyzing - Matplotlib, Pandas, NumPy & Jupyter)
-
-- ML:
-  - Python (for machine learning - Keras, TensorFlow, Scikit-learn & OpenCV)
- 
-- Other:
-  - С (Image rotation, Memory allocation)
-  - С++ (POSIX)
     
 - Tools:
   - Git (Github, Gitlab, Bitbucket)
@@ -128,6 +116,13 @@
   - Monolite (module system)
   - MVC
   - MVVM
+ 
+- Other:
+  - С (Image rotation, Memory allocation)
+  - С++ (POSIX)
+  - Java (Spring)
+  - Python backend (Fastapi, Flask, Django)
+  - Python ML (Keras, TensorFlow, Scikit-learn & OpenCV, Matplotlib, Pandas, NumPy)
     
 - - -
 
