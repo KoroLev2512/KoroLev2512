@@ -84,6 +84,7 @@
   - JavaScript/Typescript
   - React.js, Next.js
   - Vue.js, Nuxt.js
+  - Angular.js
   - Redux, MobX, React-Query
   - Axios, Zustand
   - React Email, React-Toastify
