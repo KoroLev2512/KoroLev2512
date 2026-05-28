@@ -13,18 +13,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://hh.ru/resume/YOUR_HH_ID">
+  <a href="https://hh.ru/resume/003f1b60ff0b86d6870039ed1f596a5264584b">
     <img src="https://img.shields.io/badge/HeadHunter-D6001C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Badge"/>
   </a>
 
-  <a href="https://career.habr.com/YOUR_USERNAME">
+  <a href="https://career.habr.com/korolev2512">
     <img src="https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Career Badge"/>
   </a>
-
-  <a href="https://getmatch.ru/candidates/YOUR_ID">
-    <img src="https://img.shields.io/badge/Getmatch-111111?style=for-the-badge&logo=codeforces&logoColor=white" alt="Getmatch Badge"/>
-  </a>
-
 
   <a href="https://t.me/korolev_2512">
     <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
@@ -32,10 +27,6 @@
 
   <a href="https://www.instagram.com/__icestorm__/">
     <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  
-  <a href="https://vk.com/icestorm2512">
-    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 
   </h2>
