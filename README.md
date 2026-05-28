@@ -158,7 +158,7 @@ Experienced with:
 
 ### `Lifestyle:`
 - Location - Saint-Petersburg
-- Age - 24
+- Age - 25
 - Studying - ITMO University (master)
 - Hobbies
   - Musician: classic guitar (musical education), singer
@@ -170,4 +170,4 @@ Experienced with:
 Some info:<br/>
 ITMO University, 4d year student.
 -->
-###### _All rights reserved © Korolev, 2021-2025_
+###### _All rights reserved © Korolev, 2021-2026_
