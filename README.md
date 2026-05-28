@@ -19,7 +19,18 @@
 </div>
 
 ### :man_technologist: About Me:
-  I am a javascript frontend developer right now, but, aspire to become a fullstack! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petersburg.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a javascript frontend developer Frontend Engineer with 3+ years of experience building scalable SPA and SSR applications using React, Next.js and TypeScript.
+
+Focused on frontend architecture, performance optimization, REST API integrations and production-ready UI development.
+
+Experienced with:
+
+* React / Next.js ecosystems
+* SSR / SEO optimization
+* State management (Redux Toolkit, React Query, Zustand)
+* CI/CD and testing infrastructure
+* Web performance optimization (TTFB, LCP)
+* Product and enterprise frontend development
   <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
   - :seedling: Developing corporate business platform.
   - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
