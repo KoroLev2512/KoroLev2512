@@ -9,6 +9,23 @@
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
+  <a href="https://www.linkedin.com/in/dev-by-yurii">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://hh.ru/resume/YOUR_HH_ID">
+    <img src="https://img.shields.io/badge/HeadHunter-D6001C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH Badge"/>
+  </a>
+
+  <a href="https://career.habr.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Habr_Career-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Career Badge"/>
+  </a>
+
+  <a href="https://getmatch.ru/candidates/YOUR_ID">
+    <img src="https://img.shields.io/badge/Getmatch-111111?style=for-the-badge&logo=codeforces&logoColor=white" alt="Getmatch Badge"/>
+  </a>
+
+
   <a href="https://t.me/korolev_2512">
     <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
