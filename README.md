@@ -14,6 +14,7 @@
   <a href="https://t.me/korolev_2512">
     <img src="https://img.shields.io/badge/Telegram-darkblue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </h2>
     <img src="https://komarev.com/ghpvc/?username=AndromedaSmart&style=flat-square&color=blue" alt=""/>
 </div>
