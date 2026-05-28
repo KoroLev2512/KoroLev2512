@@ -38,8 +38,6 @@
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 
-  
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </h2>
 </div>
 
