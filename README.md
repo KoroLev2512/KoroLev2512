@@ -19,9 +19,9 @@
 </div>
 
 ### :man_technologist: About Me:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a javascript frontend developer Frontend Engineer with 3+ years of experience building scalable SPA and SSR applications using React, Next.js and TypeScript.
+I am a Frontend Engineer with 4+ years of experience building scalable SPA and SSR applications using React, Next.js and TypeScript.
 
-Focused on frontend architecture, performance optimization, REST API integrations and production-ready UI development.
+Focused on frontend architecture, performance optimization, REST API integrations and production-ready UI development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Experienced with:
 
