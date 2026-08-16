@@ -5,7 +5,7 @@
   <h2>
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://dev-by-yurii.ru/">
+  <a href="https://dev-by-yurii.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
   </a>
 
