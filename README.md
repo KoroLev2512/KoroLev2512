@@ -49,7 +49,7 @@ Focused on:
 * Web performance (Core Web Vitals, TTFB, LCP) and technical SEO (SSR, hreflang, structured data)
 * State management (Redux Toolkit, RTK Query, React Query, Zustand, MobX)
 * Testing (Jest, Vitest, Playwright) and CI/CD
-* AI-assisted development (Cursor, LLM coding agents)
+* AI-assisted development (Claude Code, Cursor)
 
 - - -
 <div align="center">
@@ -78,7 +78,7 @@ Focused on:
 2. **[CHAPTERFOUR](https://chapterfour.ru/)**  
    Commercial Vue 3 project for photo & video makers and 3D designers: FSD architecture, video player, admin panel.
 
-3. **[Itishkino](https://itishkino.ru/)**  
+3. **[Itishkino](https://itishkino.ru/)** · [landing code](https://github.com/KoroLev2512/aitishkino)  
    Kids' coding and robotics school in Moscow: Next.js website with SSR and structured data for four branches, React admin panel and an online learning platform.
 
 4. **[ITMO.KINO](https://itmokino.vercel.app/)** · [code](https://github.com/KoroLev2512/ITMO-kino)  
