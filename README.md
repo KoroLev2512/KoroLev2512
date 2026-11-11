@@ -33,22 +33,23 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a Frontend Engineer with 4+ years of experience building scalable SPA and SSR applications using React, Next.js and TypeScript.
+Lead frontend engineer at **[WeGoTrip](https://wegotrip.com/)**, a travel platform with audio tours in 170+ countries. 4+ years building SSR and SPA products with React, Next.js and TypeScript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Focused on frontend architecture, performance optimization, REST API integrations and production-ready UI development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I own the frontend architecture of three products:
 
-Experienced with:
+* **Marketplace** — migrated from Razzle to Next.js 16 (App Router) and React 16 → 19 with zero downtime and no loss in search rankings; TypeScript coverage up to 95%, Lighthouse Performance 58 → 96
+* **Audio tour web player** — built from scratch: GPS triggers, offline playback with Service Workers, progress sync
+* **Author studio** — self-service tool where guides create and publish their own tours
 
-* React / Next.js ecosystems
-* SSR / SEO optimization
-* State management (Redux Toolkit, React Query, Zustand)
-* CI/CD and testing infrastructure
-* Web performance optimization (TTFB, LCP)
-* Product and enterprise frontend development
-  <!--- :telescope: I’m working as a Software Engineer/Developer in russian company "Gazprombank".
-  - :seedling: Developing corporate business platform.
-  - :zap: In my free time, I'm looking for problems on Stack Overflow, trying to help people with their problems and read tech articles. -->
-<!-- #### Projects I have worked on: -->
+Also rebuilt the **widget builder** that B2B partners use to embed tours on their own websites.
+
+Focused on:
+
+* Frontend architecture and migrations without stopping feature work
+* Web performance (Core Web Vitals, TTFB, LCP) and technical SEO (SSR, hreflang, structured data)
+* State management (Redux Toolkit, RTK Query, React Query, Zustand, MobX)
+* Testing (Jest, Vitest, Playwright) and CI/CD
+* AI-assisted development (Cursor, LLM coding agents)
 
 - - -
 <div align="center">
@@ -72,33 +73,35 @@ Experienced with:
 ### `Projects:`
 
 1. **[ITMO.EVENTS](https://itmo.events/)**  
-   Commercal system for ITMO students, offering functionality for event registration and scheduling.
+   Events platform of ITMO University (Vue 3, Nuxt, TypeScript): SSO login, dynamic registration forms, seat booking on an interactive hall map.
 
-2. **[ChapterFour](https://chapterfour.ru/)**  
-   Commercial Vue3 project for photo & videomakers, 3D designers.
-   
-3. **[Travel search](https://sputnik8.vercel.app/)**  
-   Vue3 project for searching travel for tourists.
+2. **[CHAPTERFOUR](https://chapterfour.ru/)**  
+   Commercial Vue 3 project for photo & video makers and 3D designers: FSD architecture, video player, admin panel.
 
-4. **[MWS](https://mws-eta.vercel.app/)**  
-   React web app for consulting company MWS.
+3. **[Itishkino](https://itishkino.ru/)**  
+   Kids' coding and robotics school in Moscow: Next.js website with SSR and structured data for four branches, React admin panel and an online learning platform.
 
-5. **[Chess club](https://kraud-chess.vercel.app)**  
-    Landing page for a chess tournament.
+4. **[ITMO.KINO](https://itmokino.vercel.app/)** · [code](https://github.com/KoroLev2512/ITMO-kino)  
+   Website and box-office app for ITMO student film premieres: registration and seat selection, a cashier mode for selling seats at the door.
 
-6. **[Plain](https://plain-sand.vercel.app/)**  
-   React interactive web app demonstrating for travel ML project [plaintrips.com](https://plaintrips.com/).
+5. **[HomeSharing](https://home-share.vercel.app/)** · [code](https://github.com/KoroLev2512/HomeSharing)  
+   Master's thesis prototype: rental platform with Gosuslugi (ESIA) login mock, booking state machine, digital keys and IoT integration.
 
-7. **[ITMO.KINO](https://github.com/KoroLev2512/ITMO-kino)**     
-   Platform for ITMO students project with the ability to register and select seats for the cinema session.
-   
-8. **120 Block**
-   
+6. **[SmartInspect](https://sminspect.ru/)** · [code](https://github.com/KoroLev2512/sminspect)  
+   Marketing website for a cloud platform that inspects roads and bridges with computer vision: Next.js, TypeScript, own design system.
+
+7. **[MWS](https://mws-eta.vercel.app/)**  
+   React web app for the consulting company MWS.
+
+8. **[Travel search](https://sputnik8.vercel.app/)**  
+   Vue 3 project for searching tours.
+
+9. **120 Block**
+
    Telegram mini-app platform for creative people & user interaction on React.
-   
+
    **[Landing](https://120-landing-snowy.vercel.app/en)**  |  **[Ref App](https://t.me/block_120bot/blockapp?startapp=rcZlIMXICd)**  |  **[120Block Social Network App](https://t.me/DeployServerMiniAppBot/)**  
 
-   
 - - -
 
 ### `Hard skills:`
@@ -110,11 +113,11 @@ Experienced with:
   - React.js, Next.js
   - Vue.js, Nuxt.js
   - Angular.js
-  - Redux, MobX, React-Query
-  - Axios, Zustand
+  - Redux Toolkit, RTK Query, MobX, React Query
+  - Axios, Zustand, React Hook Form, Zod
   - React Email, React-Toastify
   - Keycloakify for .ftl on React
-  - Pixeljs, Framer Motion
+  - PixiJS, Framer Motion
   - Telegram Mini Apps Development (Ton connect)
     
 - Backend:
@@ -134,8 +137,8 @@ Experienced with:
   - Kubernetes
     
 - Architecture:
-  - FSD (feature-slised design)
-  - Monolite (module system)
+  - FSD (Feature-Sliced Design)
+  - Modular monolith
   - MVC
   - MVVM
  
@@ -151,7 +154,7 @@ Experienced with:
 ### `Soft skills:`
 - Communication, teambuilding, responsibility, diligence, punctuality
 - Developing my own projects, self-development
-- Languages - Russian, English - Level B2 (Upper-entermediate)
+- Languages - Russian, English - Level B2 (Upper-Intermediate)
   
 - - -
 
@@ -162,7 +165,6 @@ Experienced with:
 - Delegate to the conference of workers and students
 - Speaker and founder of the Improvisation club school
 - Adapter for seven University study groups
-- Speaker and founder of the Improvisation club school
 - Member of the Presidium of the Academic Council
 - Member of the educational and methodological council
 - Member of the ITMO Donors volunteer club
@@ -173,15 +175,11 @@ Experienced with:
 ### `Lifestyle:`
 - Location - Saint-Petersburg
 - Age - 25
-- Studying - ITMO University (master)
+- Education - ITMO University, MSc in Software Engineering (Web Technologies), 2026
 - Hobbies
   - Musician: classic guitar (musical education), singer
   - Sport - football (amateur), hockey (amateur), karate (pro), fitness, athletics
   - Self-development: reading books and articles (exactly a lot)
   - Other interests: business area, financial literacy, investments, time-managment, setting goals and achieving them
-<!--
-
-Some info:<br/>
-ITMO University, 4d year student.
--->
+  
 ###### _All rights reserved © Korolev, 2021-2026_
